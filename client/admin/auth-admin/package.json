@@ -1,0 +1,23 @@
+{
+  "name": "auth-admin",
+  "version": "1.0.0",
+  "description": "store page with funcionalities to manage the product selection and the checkout",
+  "main": "vite.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite --mode development",
+    "build": "vite build --mode production",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "dfrancisca0"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "standard": "^17.1.0",
+    "terse": "^0.1.0",
+    "vite": "^5.2.11"
+  }
+}
